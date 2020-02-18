@@ -1,0 +1,11 @@
+F:\0 UPB Pregrado\Programación I\Pgmas C# 2020-10\Clase 2\SantaClaus\SantaClaus\bin\Debug\netcoreapp3.0\SantaClaus.exe
+F:\0 UPB Pregrado\Programación I\Pgmas C# 2020-10\Clase 2\SantaClaus\SantaClaus\bin\Debug\netcoreapp3.0\SantaClaus.deps.json
+F:\0 UPB Pregrado\Programación I\Pgmas C# 2020-10\Clase 2\SantaClaus\SantaClaus\bin\Debug\netcoreapp3.0\SantaClaus.runtimeconfig.json
+F:\0 UPB Pregrado\Programación I\Pgmas C# 2020-10\Clase 2\SantaClaus\SantaClaus\bin\Debug\netcoreapp3.0\SantaClaus.runtimeconfig.dev.json
+F:\0 UPB Pregrado\Programación I\Pgmas C# 2020-10\Clase 2\SantaClaus\SantaClaus\bin\Debug\netcoreapp3.0\SantaClaus.dll
+F:\0 UPB Pregrado\Programación I\Pgmas C# 2020-10\Clase 2\SantaClaus\SantaClaus\bin\Debug\netcoreapp3.0\SantaClaus.pdb
+F:\0 UPB Pregrado\Programación I\Pgmas C# 2020-10\Clase 2\SantaClaus\SantaClaus\obj\Debug\netcoreapp3.0\SantaClaus.csprojAssemblyReference.cache
+F:\0 UPB Pregrado\Programación I\Pgmas C# 2020-10\Clase 2\SantaClaus\SantaClaus\obj\Debug\netcoreapp3.0\SantaClaus.AssemblyInfoInputs.cache
+F:\0 UPB Pregrado\Programación I\Pgmas C# 2020-10\Clase 2\SantaClaus\SantaClaus\obj\Debug\netcoreapp3.0\SantaClaus.AssemblyInfo.cs
+F:\0 UPB Pregrado\Programación I\Pgmas C# 2020-10\Clase 2\SantaClaus\SantaClaus\obj\Debug\netcoreapp3.0\SantaClaus.dll
+F:\0 UPB Pregrado\Programación I\Pgmas C# 2020-10\Clase 2\SantaClaus\SantaClaus\obj\Debug\netcoreapp3.0\SantaClaus.pdb
