@@ -7,9 +7,13 @@ namespace SantaClaus
     class RUN
     {
         static void Main(string[] args) {
-            var lista = (new LectorCSV()).importEstudiantesCSV();
-            foreach (var item in lista) {
-                Console.WriteLine(item.ToString());
+            JSON json = new JSON();
+            List<Curso> cursos = json.cargarCurso(1);
+            foreach (var i in cursos)
+            {
+                
+                Console.WriteLine(i.ToString());
+
             }
             Console.ReadKey();
         }

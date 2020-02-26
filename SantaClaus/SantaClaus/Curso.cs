@@ -6,39 +6,7 @@ namespace SantaClaus
 {
     class Curso
     {
-/*                public string nombre;
-                public string horario;
-                public float costo;
-
-                //constructor sin argumentos
-                public Curso()
-                {
-                }
-
-                //constructor con argumentos, observe que no lleva tipo de retorno
-                public Curso(string nom, string hor, float cos)
-                {
-                    this.nombre = nom;
-                    this.horario = hor;
-                    this.costo = cos;
-                }
-
-                //constructor con argumentos, observe que este sólo tiene 2 argumentos
-                public Curso(string nom, string hor)
-                {
-                    this.nombre = nom;
-                    this.horario = hor;
-                }
-
-                //método ToString sirve para armar una cadena definida a nuestro gusto 
-                //con los valores del objeto. Esto se hace dentro de la clase  
-                public override string ToString()
-                {
-                    return string.Format("{0}\t{1}\t\t{2:C2}",
-                       nombre, horario, costo);
-                }
-
-*/        
+  
 
 
         // ahora considere los ajustes que se realizan cuando los atributos son de visibilidad privada
@@ -47,6 +15,10 @@ namespace SantaClaus
         private string horario;
         private float costo;
 
+        public string Nombre { get { return nombre; }set { nombre = value; } }
+
+        public string Horario { get { return horario; } set { horario = value; } }
+        public float Costo { get { return costo; } set { costo = value; } }
         //constructor sin argumentos
         public Curso()
         {

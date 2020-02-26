@@ -20,3 +20,5 @@ C:\Users\josea\Documents\JUAN\progrmacion1\caso de estudio\SantaClaus\SantaClaus
 C:\Users\josea\Documents\JUAN\progrmacion1\caso de estudio\SantaClaus\SantaClaus\bin\Debug\netcoreapp3.0\SantaClaus.runtimeconfig.dev.json
 C:\Users\josea\Documents\JUAN\progrmacion1\caso de estudio\SantaClaus\SantaClaus\bin\Debug\netcoreapp3.0\SantaClaus.dll
 C:\Users\josea\Documents\JUAN\progrmacion1\caso de estudio\SantaClaus\SantaClaus\bin\Debug\netcoreapp3.0\SantaClaus.pdb
+C:\Users\josea\Documents\JUAN\progrmacion1\caso de estudio\SantaClaus\SantaClaus\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\josea\Documents\JUAN\progrmacion1\caso de estudio\SantaClaus\SantaClaus\obj\Debug\netcoreapp3.0\SantaClaus.csproj.CopyComplete
